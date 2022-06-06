@@ -28,4 +28,6 @@ The most accurate predictive model used was a decision tree regressor which resu
 Running a more variable model might give us further improved results as the distinct skewing of the numbers by some categorical store data seems to have been an issue.
 
 ### For further information
-For any additional questions, please contact email![image](https://user-images.githubusercontent.com/25378587/172199927-710442e4-b103-42e5-9cef-37e5a1cbe7db.png)
+For any additional questions, please contact ajlackey8@gmail.com
+
+![image](https://user-images.githubusercontent.com/25378587/172199927-710442e4-b103-42e5-9cef-37e5a1cbe7db.png)
